@@ -1,0 +1,11 @@
+# Copyright 2026 Asmani Yamin
+# SPDX-License-Identifier: LicenseRef-H2OSite-Noncommercial-Research-1.0
+
+cff-version: 1.2.0
+message: "Please acknowledge H2OSite by Asmani Yamin and cite this software when publishing research results obtained using it. See LICENSE for permissions and attribution requirements."
+type: software
+title: "H2OSite"
+abstract: "Mapping binding-site water positions and energetics to guide ligand design and optimization."
+authors:
+  - family-names: "Yamin"
+    given-names: "Asmani"

@@ -1,0 +1,21 @@
+H2OSite
+Required Notice: Copyright 2026 Asmani Yamin
+
+H2OSite Noncommercial Research License 1.0
+SPDX-License-Identifier: LicenseRef-H2OSite-Noncommercial-Research-1.0
+
+Unmodified noncommercial use and distribution are permitted subject to LICENSE.
+Private modifications are permitted solely for noncommercial research within
+a controlled research environment. Commercial use and distribution, publication,
+or disclosure of modified versions require Asmani Yamin's prior written
+permission. Retain this NOTICE and LICENSE with distributed copies.
+
+Publicly shared results must acknowledge H2OSite by Asmani Yamin. Publications
+must cite the Software using CITATION.cff. The Software is supplied for research
+without a promise of accuracy or suitability for a particular application.
+Users must independently validate inputs, methods, and outputs before relying
+on results. See LICENSE for the complete permissions, validation conditions,
+warranty exclusions, liability limitations, and indemnification provisions.
+
+Third-party components, dependencies, and example data retain their applicable
+terms. Statutory rights and valid earlier license grants remain unaffected.

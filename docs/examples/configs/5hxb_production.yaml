@@ -1,0 +1,20 @@
+# Copyright 2026 Asmani Yamin
+# SPDX-License-Identifier: LicenseRef-H2OSite-Noncommercial-Research-1.0
+
+protein_path: ../inputs/5hxb_prepped.pdb
+ligand_resnames:
+- 85C
+output_dir: results/5hxb_production_{mode}
+jobname: 5hxb_{mode}_production
+truncate_protein: false
+treat_solvent: delete
+terminal_treatment: preserve_existing_caps
+simulation_time_ns: 2.0
+gcmc_platform: auto
+workflow:
+  mode: holo
+  preset: production
+  restraint_k_kcal: 10.0
+  normalize_residues: true
+  cache: false
+  histidine_states_file: 5hxb_histidines.yaml

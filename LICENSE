@@ -1,0 +1,193 @@
+H2OSite Noncommercial Research License 1.0
+
+SPDX-License-Identifier: LicenseRef-H2OSite-Noncommercial-Research-1.0
+
+Copyright 2026 Asmani Yamin
+
+1. SOFTWARE, LICENSOR, AND ACCEPTANCE
+
+Asmani Yamin is the licensor. "Software" means the H2OSite source code,
+executable components, and accompanying documentation made available under
+these terms. Separately licensed dependencies and third-party materials
+retain their own terms and are not relicensed by this agreement.
+
+"You" means the individual or entity exercising the permissions in this
+agreement. Those permissions are conditional on your acceptance of and
+compliance with these terms. The licensor reserves rights not expressly
+granted here. A separate written agreement signed by the licensor may grant
+additional permissions for the uses identified in that agreement.
+
+2. LICENSE GRANT AND PERMITTED PURPOSES
+
+Subject to these terms, the licensor grants you a nonexclusive, no-charge
+copyright license to access, reproduce, install, and use the Software for
+noncommercial purposes consistent with the Research Use and Validation
+conditions in section 6. Permitted purposes include noncommercial academic
+research, personal study, experiments, and testing without an anticipated
+commercial application.
+
+You may make changes and new works based on the Software solely for private,
+noncommercial research within your controlled research environment. This
+permission does not authorize distribution, publication, or disclosure of
+modified versions or new works to third parties. Those activities require
+the licensor's prior written permission.
+
+3. DISTRIBUTION AND USE RESTRICTIONS
+
+You may distribute unmodified copies of the Software for permitted
+noncommercial purposes, provided that each recipient receives this LICENSE,
+NOTICE, all applicable copyright and attribution notices, and every plain-text
+line beginning with "Required Notice:" supplied by the licensor. Recipients
+must accept these terms to exercise the permissions granted here.
+
+Unless the licensor gives prior written permission, you may not:
+
+(a) use the Software or modifications for commercial purposes;
+(b) distribute, publish, disclose, or make modified versions or new works
+    based on the Software available to third parties;
+(c) remove or obscure required copyright, attribution, or license notices;
+(d) sublicense or transfer the licenses granted to you; or
+(e) represent that the licensor endorses your work or has assumed your
+    support, warranty, validation, or other obligations.
+
+These conditions do not restrict independently applicable statutory rights
+or uses that do not require a license from the licensor.
+
+4. COMMERCIAL USE AND SEPARATE PERMISSION
+
+Any commercial use requires explicit prior written permission from
+Asmani Yamin. Commercial use means use primarily intended for commercial
+advantage or monetary compensation, including paid products or services,
+client work, internal business operations, and commercial research and
+development. Academic or nonprofit affiliation does not by itself make a
+commercial activity noncommercial.
+
+Contact Asmani Yamin for written permission identifying any approved
+commercial use or sharing of modified versions and its conditions. Silence
+is not approval. Permission for one activity does not authorize a different
+activity or waive conditions not addressed by that permission.
+
+5. ATTRIBUTION AND ACKNOWLEDGMENT
+
+For every permitted use, retain acknowledgment of Asmani Yamin's authorship
+in the Software and accompanying documentation. Publications, presentations,
+reports, and other publicly shared results obtained using the Software must
+acknowledge H2OSite by Asmani Yamin. Publications must cite the Software using
+CITATION.cff. Do not imply the licensor's endorsement.
+
+No ownership of independently created research results is claimed by these
+terms. Sharing results does not authorize sharing modified Software, and
+the attribution and validation conditions continue to apply.
+
+6. RESEARCH USE AND VALIDATION
+
+The Software provides computational tools for protein preparation, water
+sampling, molecular dynamics, hydration-site clustering, thermodynamic
+analysis, hydrogen-bond analysis, ligand displacement scoring, and associated
+visualization and data processing. It is supplied as a research tool without
+representing that its algorithms or outputs have been validated for a
+particular protein, ligand, molecular complex, biological target, assay,
+experimental condition, or downstream application.
+
+You are responsible for deciding whether the Software is appropriate for
+your intended use and independently checking the scientific correctness of
+its inputs, methods, assumptions, parameters, and outputs. Relevant checks
+include structural preparation, atom and residue identities, biological
+assembly, missing atoms or residues, protonation and terminal states,
+cofactors, binding-site definitions, force fields, water models, calibration
+references, sampling, convergence, coordinate frames, and units.
+
+Before relying on results for synthesis, experimental work, drug discovery,
+drug development, or manufacturing, arrange verification and validation
+appropriate to that use, qualified professional review, and compliance with
+applicable laws and institutional requirements. A computed hydration site,
+energy, entropy estimate, or displacement score does not by itself establish
+binding affinity, kinetic behavior, chemical validity, biological activity,
+protein function or stability, safety, toxicity, efficacy, or manufacturability.
+
+Permission to use the Software, including commercial permission, does not
+constitute the licensor's validation, recommendation, or approval of an
+experiment, compound, product, or application. Maintenance, technical support,
+correction of errors, and future releases are not promised. These conditions
+allocate responsibility; they do not certify results or substitute for
+appropriate experimental validation and safeguards.
+
+7. OWNERSHIP, THIRD-PARTY RIGHTS, AND RESERVED RIGHTS
+
+The licensor retains ownership of the rights the licensor holds in the
+Software. No patent or trademark license is granted. Third-party components,
+scientific dependencies, and example data retain their applicable copyrights,
+licenses, and other terms. You are responsible for obtaining permissions
+needed for your use of those materials.
+
+These terms do not prevent the licensor from licensing the Software to
+others. They do not imply licenses beyond those expressly granted, limit
+fair-use rights, or withdraw valid earlier license grants.
+
+8. VIOLATIONS AND TERMINATION
+
+For the first violation notified to you in writing, your licenses may
+continue if you fully comply with these terms and take practical steps to
+correct past violations within 32 days after receiving notice. If you do
+not meet those conditions, your licenses terminate when that period expires.
+For subsequent violations, or activities outside the permissions granted
+here that do not qualify for that first-notice opportunity to cure, your
+licenses terminate immediately.
+
+After termination, cease activities requiring these licenses and cease
+distributing covered copies and modifications. Delete those copies and
+modifications unless retention is required by law or permitted by an
+independent right. Required legal-retention copies must not be used or
+distributed under the terminated license.
+
+Termination does not eliminate obligations arising before termination.
+Sections 5, 6, 7, 9, 10, and 11 survive termination to the extent applicable.
+Independently applicable statutory rights and valid earlier grants remain
+unaffected.
+
+9. DISCLAIMER OF WARRANTY
+
+To the extent permitted by applicable law, and unless the licensor expressly
+agrees otherwise in writing, the Software is provided as is and as available,
+without express or implied warranties or conditions, including warranties
+of title, noninfringement, merchantability, or fitness for a particular purpose.
+
+The licensor does not warrant that the Software or its outputs are accurate,
+complete, reliable, error-free, secure, or suitable for a particular
+molecular-modeling, protein-preparation, protein-ligand analysis, experimental,
+chemical-synthesis, manufacturing, or drug-development purpose. You bear
+responsibility for determining whether your use or redistribution is
+appropriate and for the risks of exercising these permissions. Documentation
+or oral statements create no additional warranty unless expressly agreed
+by the licensor in writing.
+
+10. LIMITATION OF LIABILITY
+
+To the extent permitted by applicable law, the licensor will not be liable
+under any theory of liability, including contract or negligence, for direct,
+indirect, special, incidental, or consequential losses arising from these
+terms or use of or inability to use the Software. This includes loss of
+profits, goodwill, data, work, or use of computer systems, even when the
+licensor has been informed that such losses are possible.
+
+Nothing in these terms excludes or limits liability that cannot lawfully
+be excluded or limited, including nonwaivable liability for personal injury,
+death, fraud, willful misconduct, or gross negligence under applicable law.
+
+11. INDEMNIFICATION AND ADDITIONAL OBLIGATIONS
+
+To the extent permitted by law, you shall indemnify, defend, and hold the
+licensor harmless from third-party claims, damages, and reasonable legal
+costs to the extent caused by your use outside the permissions granted here,
+unlawful use, distribution of modifications without required permission,
+or failure to meet the Research Use and Validation conditions. This obligation
+does not extend to claims to the extent caused by the licensor's fraud,
+willful misconduct, gross negligence, or other liability that cannot lawfully
+be shifted to you.
+
+If you offer support, warranties, or assume additional liability to another
+person, you do so solely on your own behalf and responsibility. You must not
+represent that the licensor has undertaken those obligations. This section
+survives termination of your licenses.
+
+END OF TERMS
